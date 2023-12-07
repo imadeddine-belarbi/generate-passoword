@@ -6,11 +6,13 @@ body {
 
 body {
     background: #1C1C1C;
+    display: flex;
+    height: 100vh;
 }
 
 .container {
     width: 500px;
-    margin: 100px auto 0;
+    margin: auto;
     background: #1F2937;
     padding: 100px 50px;
     border-radius: 6px;
